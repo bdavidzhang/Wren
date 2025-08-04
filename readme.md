@@ -1,7 +1,4 @@
-# Wren: Your AI Motivational Coach via WhatsApp
-
-This project aims to build an AI-powered motivational coach that users can interact with via WhatsApp. It leverages the Twilio API for messaging and the OpenAI API for generating motivational responses.
-
+# Wren: Your AI Motivational Coach via Discord
 ## Project Roadmap & Future Enhancements:
 
 This project is currently a prototype with the following planned enhancements:
